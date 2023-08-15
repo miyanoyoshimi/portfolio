@@ -283,7 +283,190 @@ img {
   font-family:'メイリオ', 'Meiryo', sans-serif;
 }
 
+.works2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works2-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
 
+.works2-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works2-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+.works3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works3-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
+
+.works3-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works3-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+.works4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works4-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
+
+.works4-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works4-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+.works5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works5-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
+
+.works5-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works5-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+
+.works6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works6-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
+
+.works6-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works6-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
+.works7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+ 
+}
+.works7-container {
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  position: relative;
+}
+
+.works7-container #kokuban2 {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.works7-menu {
+  
+  position:absolute; top:80px; left:110px;
+   width: 100%;
+  margin: 0-20px;
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
+}
 
 /*--------------------------------
  ページトップ
