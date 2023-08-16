@@ -243,9 +243,8 @@ img {
 }
 .works1-menu {
   
-  position:absolute; top:130px; left:100px;
-   width: 100%;
-  margin: 0-20px;
+  position:absolute; top:20%; left:12.5%;
+  width: 75%;
   text-align: left;
   font-weight: bold;
   color: white;
@@ -630,38 +629,31 @@ img {
     padding: 0 20px;
   }
 
-  .mv-title {
-    font-size: 30px;
-  }
-  .mv-subtitle {
-    font-size: 16px;
-    margin-bottom: 20px;
-  }
 
-  .mv-text {
+  .mvmenu  {
     top: 75%;
     font-size: 14px;
     line-height: 1.7;
   }
 
+  /* About */
+  
+  .about-menu {
+    font-size: 14px;
+  }
+
+  
+
   /* Works */
-  .works-name {
+  .works1-container img {
+    height: 500px;
+  }
+
+  .works1-menu {
     font-size: 12px;
   }
 
-  .works-info {
-    margin-top: 3px;
-  }
-
-  .works-list {
-    justify-content: space-between;
-  }
-
-  .works-item {
-    flex: 0 0 48%;
-    margin-right: 0;
-    margin-bottom: 30px;
-  }
+ 
 
   /* Skill */
   .skill-list {
@@ -687,24 +679,7 @@ img {
     line-height: 1.7;
   }
 
-  /* About */
-  .profile {
-    display: block;
-  }
-  .profile-img {
-    width: 150px;
-    margin: 0 auto;
-    margin-bottom: 25px;
-  }
-
-  .profile-body p {
-    font-size: 14px;
-    line-height: 1.7;
-  }
-
-  .profile-body p:not(:last-child) {
-    margin-bottom: 20px;
-  }
+  
 
   /* フッター */
   .footer {
